@@ -1,0 +1,4 @@
+"C:/Users/amuly/Downloads/Customer-Churn-Project/models/feature_columns.pkl"
+"C:/Users/amuly/Downloads/Customer-Churn-Project/models/churn_model.pkl"
+"C:/Users/amuly/Downloads/Customer-Churn-Project/models/scaler.pkl"
+"C:/Users/amuly/Downloads/Customer-Churn-Project/data/Churn.csv"
